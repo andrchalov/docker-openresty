@@ -1,1 +1,1 @@
-# openresty
+# Docker container with Openresty
